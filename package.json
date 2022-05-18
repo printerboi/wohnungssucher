@@ -1,0 +1,20 @@
+{
+  "name": "wohnungssucher",
+  "version": "0.0.1",
+  "description": "simple application to fetch API data from immoscout and to push them to a google calc sheet",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/printerboi/wohnungssucher.git"
+  },
+  "author": "Maximilian Krebs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/printerboi/wohnungssucher/issues"
+  },
+  "homepage": "https://github.com/printerboi/wohnungssucher#readme"
+}

@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/printerboi/wohnungssucher/issues"
   },
-  "homepage": "https://github.com/printerboi/wohnungssucher#readme"
+  "homepage": "https://github.com/printerboi/wohnungssucher#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "axios-oauth-1.0a": "^0.3.5",
+    "dotenv": "^16.0.1",
+    "oauth-1.0a": "^2.2.6",
+    "request": "^2.88.2"
+  }
 }
